@@ -80,7 +80,9 @@ cd ALFA_DDOS
 node ALFA.js
 ```
 
+## Conclusion
 
+Update proxy.txt file Add Valid Proxy
 
-
+## JOIN [ALFAZINFOSEC](https://t.me/ALFAZINFOSEC)
 
