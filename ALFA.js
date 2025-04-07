@@ -64,6 +64,14 @@ function getStatus() {
     });
 }
 
+
+/*
+        # code churi tor pichon diye bore dibo
+        # Don't even think about it. You won't get far.
+        # You’ll end up with nothing but frustration.
+        # chora magir pola
+*/
+
 function getTitleFromHTML(_0x1b54cd) {
     const _0x2629ac = _0x869395,
         _0x5a2105 = /<title>(.*?)<\/title>/i,
