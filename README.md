@@ -65,6 +65,8 @@ node ALFA.js
 
 # If using a fresh VM:
 
+## OPEN [Google Cloud Console](https://shell.cloud.google.com)
+
 ```bash
 sudo apt update
 sudo apt install nodejs npm git -y
@@ -75,6 +77,9 @@ sudo apt install nodejs npm git -y
 # Then:
 sudo apt install -y nodejs
 sudo apt install -y npm
+npm install user-agents
+npm install axios
+
 git clone https://github.com/mdalfaz/ALFA_DDOS.git
 cd ALFA_DDOS
 node ALFA.js
