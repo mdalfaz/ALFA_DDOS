@@ -85,6 +85,9 @@ cd ALFA_DDOS
 node ALFA.js
 ```
 
+![Screenshot 2025-04-08 120310](https://github.com/user-attachments/assets/236a3d83-5c3d-45e0-8f1a-90438c975647)
+
+
 ## Conclusion
 
 Update proxy.txt file Add Valid Proxy
