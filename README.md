@@ -92,5 +92,8 @@ node ALFA.js
 
 Update proxy.txt file Add Valid Proxy
 
+## Check Proxy [TOOl](https://github.com/mdalfaz/check_proxy)
+
+
 ## JOIN [ALFAZINFOSEC](https://t.me/ALFAZINFOSEC)
 
