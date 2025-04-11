@@ -43,6 +43,8 @@ node ALFA.js
 
 pkg update && pkg upgrade
 pkg install nodejs git
+npm install user-agents
+npm install axios
 git clone https://github.com/mdalfaz/ALFA_DDOS.git
 cd ALFA_DDOS
 node ALFA.js
